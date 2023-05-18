@@ -87,31 +87,4 @@ body{
     
 }
 
-@media(max-width:450px){
-    .logo{
-        font-size: 15px;
-    }
-    .navbar a{
-        font-size: 10px;
-        margin-left: 20px;
-    }
-    .home-content h1{
-        font-size: 20px;
-    }
-    .home-content h3{
-        font-size: 20px;
-    }
-    .home-content p{
-        font-size: 15px;
-    }
-    .home-sci a{
-        position: relative;
-        left: 20px;
-    }
 
-
-
-
-
-
-}
